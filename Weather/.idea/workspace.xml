@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a735027-c21d-45c8-8454-4ea74f4fbde8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/migrations/0002_passenger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/migrations/0003_bookings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/migrations/0004_bookings_flight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/migrations/0005_auto_20200520_1513.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/migrations/0006_auto_20200520_1514.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/migrations/0007_bookings_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/migrations/0008_auto_20200703_1453.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/migrations/0009_auto_20200710_1618.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/templates/Flight/History.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/templates/Flight/airport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/templates/Flight/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/templates/Flight/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/templates/Flight/flight.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/templates/Flight/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/templates/Flight/mybookings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/templates/Flight/passenger.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Flight/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Registration/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Registration/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Registration/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Registration/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Registration/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Registration/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Registration/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Registration/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Registration/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/Registration/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/newsapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/newsapp/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/newsapp/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/newsapp/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/newsapp/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/newsapp/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/newsapp/templates/newsapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/newsapp/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/newsapp/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/newsapp/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/weather/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/weather/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/weather/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/weather/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/weather/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/weather/templates/weather/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/weather/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/weather/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/weather/views.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/main/templates/main/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/db.sqlite3">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/main/tests.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/main/models.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/main/apps.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/weather/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weather/main/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/weather/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/weather/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="e#631#663#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weather/main/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/weather/weather/settings.py" />
+        <option value="$PROJECT_DIR$/weather/main/urls.py" />
+        <option value="$PROJECT_DIR$/weather/weather/urls.py" />
+        <option value="$PROJECT_DIR$/weather/main/templates/main/index.html" />
+        <option value="$PROJECT_DIR$/weather/main/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-14" />
+    <option name="y" value="-14" />
+    <option name="width" value="1306" />
+    <option name="height" value="1386" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Weather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Weather" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Weather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Weather" type="462c0819:PsiDirectoryNode" />
+              <item name="weather" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Weather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Weather" type="462c0819:PsiDirectoryNode" />
+              <item name="weather" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Weather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Weather" type="462c0819:PsiDirectoryNode" />
+              <item name="weather" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Weather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Weather" type="462c0819:PsiDirectoryNode" />
+              <item name="weather" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a735027-c21d-45c8-8454-4ea74f4fbde8" name="Default Changelist" comment="" />
+      <created>1593965968926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593965968926</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1293" height="693" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17394757" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.30319148" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/django/urls/resolvers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2526">
+          <caret line="675" selection-start-line="675" selection-end-line="675" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/main/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/main/templates/main/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/weather/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/weather/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/weather/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/main/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/main/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/main/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/main/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/main/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="87" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
